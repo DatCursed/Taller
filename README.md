@@ -1,8 +1,8 @@
-# Taller-1-Estructura-de-Datos
+# Taller
 
 
 **Integrantes del equipo:**
-* [Diego Seco ICCI]
+* [Diego Seco]
 * [David Rodriguez]
 
 ## Descripción del Proyecto
